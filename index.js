@@ -6,7 +6,7 @@ function dwarfRollCall(dwarves) {
     }
     return string.join(" ")
 }
-
+dwarfRollCall(dwarves)
     
 function summonCaptainPlanet(planeteerCalls){
 }
